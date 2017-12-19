@@ -1,4 +1,4 @@
 const companyName = 'Scuber';
 companyName = 'companyName';
 
-var mostProfitableNeighborhood = "Chelsea";
+const mostProfitableNeighborhood = "Chelsea";
