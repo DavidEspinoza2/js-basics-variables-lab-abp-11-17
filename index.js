@@ -1,2 +1,2 @@
-companyName = 'Scuber';
+const companyName = 'Scuber';
 companyName = 'companyName';
