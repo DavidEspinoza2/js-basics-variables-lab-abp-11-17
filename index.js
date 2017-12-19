@@ -1,6 +1,6 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 
-let companyName = 'companyName';
+companyName = 'companyName';
 
 let mostProfitableNeighborhood = 'Chelsea';
