@@ -7,4 +7,3 @@ mostProfitableNeighborhood = 'Chelsea';
 companyName = 'companyName';
 
 const companyCeo = "Susan Smith";
-companyCeo = 'Susan Smith';
