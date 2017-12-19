@@ -7,4 +7,3 @@ mostProfitableNeighborhood = 'Chelsea';
 
 
 
-const companyCeo;
