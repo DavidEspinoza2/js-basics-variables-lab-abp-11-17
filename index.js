@@ -1,1 +1,2 @@
 companyName = 'Scuber';
+companyName = 'companyName';
