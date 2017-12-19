@@ -6,5 +6,5 @@ mostProfitableNeighborhood = 'Chelsea';
 
 companyName = 'companyName';
 
-let companyCeo = 'Susan Smith';
+const companyCeo = 'Susan Smith';
 companyCeo = 'Susan Smith';
